@@ -1,1 +1,1 @@
-# a1-so
+# Código da Avaliação 1 de Sistemas Operacionais
